@@ -1,3 +1,7 @@
 BG0DG
 
+<<<<<<< HEAD
 Change of the file in the master branch.
+=======
+I have done a new branch with a name: develop_branch
+>>>>>>> develop_branch
